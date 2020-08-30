@@ -17,3 +17,4 @@ this is done, the rewire function will rewire this new node if it can get a bett
 
 o Rewire Function: This function rewires all the points around a node within a ball of radius (r)
 to better parents (in the sense of cost)
+
